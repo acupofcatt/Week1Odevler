@@ -25,6 +25,7 @@ namespace Variables
                 Console.WriteLine("Girilen sayı 10'dan büyüktür.");
             }
 
+
             if (sayi % 2 == 0)
             {
                 Console.WriteLine("Girilen sayı çifttir.");
