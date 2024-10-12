@@ -1,0 +1,14 @@
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.AssemblyInfoInputs.cache
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.AssemblyInfo.cs
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.csproj.CoreCompileInputs.cache
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster.deps.json
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster.runtimeconfig.json
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster.dll
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/bin/Debug/net8.0/KimMilyonerOlmakIster.pdb
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.dll
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/obj/Debug/net8.0/refint/KimMilyonerOlmakIster.dll
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.pdb
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/obj/Debug/net8.0/KimMilyonerOlmakIster.genruntimeconfig.cache
+/Users/elifgul/RiderProjects/KimMilyonerOlmakIster/KimMilyonerOlmakIster/obj/Debug/net8.0/ref/KimMilyonerOlmakIster.dll
