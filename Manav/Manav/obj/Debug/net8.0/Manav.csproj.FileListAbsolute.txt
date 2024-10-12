@@ -1,0 +1,14 @@
+/Users/elifgul/RiderProjects/Manav/Manav/obj/Debug/net8.0/Manav.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elifgul/RiderProjects/Manav/Manav/obj/Debug/net8.0/Manav.AssemblyInfoInputs.cache
+/Users/elifgul/RiderProjects/Manav/Manav/obj/Debug/net8.0/Manav.AssemblyInfo.cs
+/Users/elifgul/RiderProjects/Manav/Manav/obj/Debug/net8.0/Manav.csproj.CoreCompileInputs.cache
+/Users/elifgul/RiderProjects/Manav/Manav/bin/Debug/net8.0/Manav
+/Users/elifgul/RiderProjects/Manav/Manav/bin/Debug/net8.0/Manav.deps.json
+/Users/elifgul/RiderProjects/Manav/Manav/bin/Debug/net8.0/Manav.runtimeconfig.json
+/Users/elifgul/RiderProjects/Manav/Manav/bin/Debug/net8.0/Manav.dll
+/Users/elifgul/RiderProjects/Manav/Manav/bin/Debug/net8.0/Manav.pdb
+/Users/elifgul/RiderProjects/Manav/Manav/obj/Debug/net8.0/Manav.dll
+/Users/elifgul/RiderProjects/Manav/Manav/obj/Debug/net8.0/refint/Manav.dll
+/Users/elifgul/RiderProjects/Manav/Manav/obj/Debug/net8.0/Manav.pdb
+/Users/elifgul/RiderProjects/Manav/Manav/obj/Debug/net8.0/Manav.genruntimeconfig.cache
+/Users/elifgul/RiderProjects/Manav/Manav/obj/Debug/net8.0/ref/Manav.dll
